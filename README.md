@@ -1,6 +1,9 @@
 # LinkedInJobSearchAutomation
 RPA Robotic Process Automation (UIpath) For JobSearching By crawling site .
 
+to Run Process , need to download a UIpath Studio 
+locally and setup a Environment . 
+
 Agentic Process 
 Running And Define A java job Searching 
 And Finding process vie Linkdin
